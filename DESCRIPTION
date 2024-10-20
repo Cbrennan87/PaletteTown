@@ -1,0 +1,12 @@
+Package: PaletteTown
+Type: Package
+Title: A Collection of Palettes based upon the Pokemon Franchise
+Version: 0.1.3
+Author: Chris Brennan
+Maintainer: <chrisbrennan87@gmail.com>
+Description: A collection of many colour palettes based upon pokemon types, towns, trainers, and more. Contains functions compatible with ggplot fill and colour.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: ggplot2
+RoxygenNote: 7.3.2
