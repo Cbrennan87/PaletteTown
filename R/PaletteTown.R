@@ -84,15 +84,29 @@ palette_town_palette <- function(palette = "Types", ...) {
 
     `AMuk` = c("#efe43e","#1852a3","#759b77","#eb74a9","#bbb0c3","#5989c7", "#aa5598" ),
     
+    # Newly Added
+    
     `Gen3_Gyms` = c("#597fb9", "#f57191", "#f88740","#f8bf57","#b02837","#8799a7","#a468be" ),
     
     `Celdon` = c("#ff143c","#ff6600","#fff049","#92fe35","#37e300","#3bfff0", "#177dfe", "#fe3df0" ),
     
-    `Gen2_Birds` = c("#89c1e7", "#b99cc1", "#fcdc75", "#f18f64","#eb82ab" ),
+    `Gen1_Birds` = c("#89c1e7", "#b99cc1", "#fcdc75", "#f18f64","#eb82ab" ),
     
-    `Gen2_Starters` = c("#d4e4a9", "#ed9072", "#6bc0cb","#97a865", "#316972", "#dc6c69", "#aa69a7" )
+    `Gen2_Starters` = c("#d4e4a9", "#ed9072", "#6bc0cb","#97a865", "#316972", "#dc6c69", "#aa69a7" ),
 
-
+    `Rotom` = c("#ef844b", "#cf4f47", "#418c9c", "#b399bb","#f0dc7d", "#a0c756" ),
+    
+    `Regis` = c("#cb8d69", "#a3d3e9", "#cfcfcf", "#e5ce6d", "#449e68","#dea390", "#9d5382" ),
+    
+    `Plates` = c("#e88970", "#51d7ff","#c185f7", "#c59265", "#d0b978","#c9ed8b", "#aa91b5","#ffd976","#f899d7","#c5eceb","#db6877", "#7091b2", "#fec7e8" ),
+    
+    `Lilligant` = c("#8ac375", "#c98faf", "#da8a4c", "#e3d257" ),
+    
+    `Comfey` = c("#e15b50",  "#f7ed6a","#dd6e95", "#a5be70", "#e7af26" ),
+    
+    `Forces_Nature`= c("#6faa5d", "#6f4a7f","#f1c88a", "#c0713e", "#625142","#d6737a", "#476e8c", "#6b5da8","#ed81a9"  ),
+    
+    `Guardians` = c("#f0732b", "#ece84e","#ef86bc","#dd6a7d","#8761b6","#aac6e3" )
   )
 
   palette_town_palettes[[palette]]
