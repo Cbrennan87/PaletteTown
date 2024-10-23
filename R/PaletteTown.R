@@ -82,7 +82,15 @@ palette_town_palette <- function(palette = "Types", ...) {
 
     `Minior` = c( "#e46e9a", "#f7ac46","#f3e966","#a7cf75","#78d1df","#2084e5","#ac81d8"),
 
-    `AMuk` = c("#efe43e","#1852a3","#759b77","#eb74a9","#bbb0c3","#5989c7", "#aa5598" )
+    `AMuk` = c("#efe43e","#1852a3","#759b77","#eb74a9","#bbb0c3","#5989c7", "#aa5598" ),
+    
+    `Gen3_Gyms` = c("#597fb9", "#f57191", "#f88740","#f8bf57","#b02837","#8799a7","#a468be" ),
+    
+    `Celdon` = c("#ff143c","#ff6600","#fff049","#92fe35","#37e300","#3bfff0", "#177dfe", "#fe3df0" ),
+    
+    `Gen2_Birds` = c("#89c1e7", "#b99cc1", "#fcdc75", "#f18f64","#eb82ab" ),
+    
+    `Gen2_Starters` = c("#d4e4a9", "#ed9072", "#6bc0cb","#97a865", "#316972", "#dc6c69", "#aa69a7" )
 
 
   )
